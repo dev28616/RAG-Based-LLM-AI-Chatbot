@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG Based LLM AI Chatbot 🤖
 RAG Based LLM AI Chatbot Built using Open Source Stack (Llama 3.2 Model, BGE Embeddings, and Qdrant running locally within a Docker Container)
 
@@ -166,3 +167,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 #### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
 
 ---
+=======
+# RAG-Based-LLM-AI-Chatbot
+>>>>>>> 185420338ab1184c19900d8c53e6ebb7d0243388
